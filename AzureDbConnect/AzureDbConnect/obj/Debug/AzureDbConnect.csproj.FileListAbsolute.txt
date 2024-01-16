@@ -1,0 +1,7 @@
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\bin\Debug\AzureDbConnect.exe.config
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\bin\Debug\AzureDbConnect.exe
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\bin\Debug\AzureDbConnect.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\obj\Debug\AzureDbConnect.csproj.AssemblyReference.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\obj\Debug\AzureDbConnect.csproj.CoreCompileInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\obj\Debug\AzureDbConnect.exe
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY8\AzureDbConnect\AzureDbConnect\obj\Debug\AzureDbConnect.pdb
